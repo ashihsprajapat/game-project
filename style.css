@@ -1,0 +1,32 @@
+body{
+    background:no-repeat;
+    background-color: black;
+}
+#img{
+    width: 300px;
+    height: 300px;
+    align-items: center;
+   
+}#mode{
+    width: 60px;
+    height: 2%  ;
+}
+#photo{
+    margin: 30px;
+}
+DIV{
+   display: flex;
+}
+ol{
+    margin-left: 100px;
+    width: 30%;
+    border: 2px solid green;
+}
+.stop{
+    margin: 10px;
+}
+.footer{
+    border: 2px solid red;
+    width: 45%;
+    height: 10%;
+}
